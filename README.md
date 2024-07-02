@@ -1,18 +1,18 @@
 # Gallerii | A Photo Search Web App
 
-# Languages Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-# API used 
+## API used 
 - Unsplash API
 
-# Colors Pillot
+## Colors Pillot
 - https://coolors.co/palette/353535-3c6e71-ffffff-d9d9d9-284b63
 
-# Custom Font
+## Custom Font
 - https://fonts.google.com/specimen/Poppins?query=popp
 
-# Hosted URL 
+## Hosted URL 
 - https://gallerii.netlify.app/
