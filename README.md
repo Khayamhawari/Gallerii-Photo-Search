@@ -14,5 +14,5 @@
 # Custom Font
 - https://fonts.google.com/specimen/Poppins?query=popp
 
-#Hosted URL 
+# Hosted URL 
 - https://gallerii.netlify.app/
