@@ -13,3 +13,6 @@
 
 # Custom Font
 - https://fonts.google.com/specimen/Poppins?query=popp
+
+#Hosted URL 
+- https://gallerii.netlify.app/
